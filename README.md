@@ -1,6 +1,6 @@
 # Phishield Project
 
-**Phishield** is an AI-powered tool designed to detect phishing scams. It analyses when a user sends a link or takes a picture of one—to determine if it is potentially malicious.
+**Phishield** is an AI-powered tool designed to detect phishing scams. It analyses when a user sends a link or takes a picture of one to determine if it is potentially malicious.
 
 ## Current Status
 The project is still in progress. Some features are under development, and there are occasional issues with missing files on the local machine.
