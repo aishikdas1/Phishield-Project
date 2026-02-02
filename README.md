@@ -9,5 +9,5 @@ The project is still in progress. Some features are under development, and there
 Here is a screenshot of my error
 
 
-![Phishield Screenshot2]("https://github.com/user-attachments/assets/36e61f49-a438-4917-9fa8-acc89bada60f")
+![Phishield Screenshot]("https://github.com/user-attachments/assets/36e61f49-a438-4917-9fa8-acc89bada60f")
 Here is my backend currently, not sure if this has to do with any of my issues.
